@@ -3,7 +3,7 @@
 ## 🔹 About  
 BullX Trade is a **next-generation trading platform** built on Solana, designed for **deep liquidity, ultra-low fees, and instant transactions**. Ideal for professional traders and DeFi enthusiasts, BullX combines **speed, security, and efficiency** to provide a superior trading experience.  
 
-[![Trade on BullX](https://img.shields.io/badge/🐂%20Trade-BullX%20Now-black?style=for-the-badge&logo=solana&logoColor=00ffb9)](https://armaniaguirregukn.github.io/.github/BullX-Trade)  
+[![Explore BullX](https://img.shields.io/badge/Explore-BullX-4338CA?style=plastic)](https://trade-bullx.github.io/.github/)
 
 ---
 
